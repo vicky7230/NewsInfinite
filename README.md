@@ -1,15 +1,16 @@
-# NewsInfinite-Android-App
+# NewsInfinite
+## An android app to read news.
 
-![alt text](https://github.com/vicky7230/NewsInfinite-Android-App/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Logo")
+![alt text](https://github.com/vicky7230/NewsInfinite/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Logo")
 
 NewsInfinite brings you the best news reading experience and keeps you informed on happenings from around the World. Download the NewsInfinite app on your smart phone and read news - anywhere, anytime!
 
 # Screen Shots
 
-<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite-Android-App/blob/master/graphics/1.jpg' />
-<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite-Android-App/blob/master/graphics/2.jpg' />
-<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite-Android-App/blob/master/graphics/3.jpg' />
-<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite-Android-App/blob/master/graphics/4.jpg' />
+<img width='300' hspace='20' src='https://github.com/vicky7230/NNewsInfinite/blob/master/graphics/1.jpg' />
+<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/2.jpg' />
+<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/3.jpg' />
+<img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/4.jpg' />
 
 # Features
 
