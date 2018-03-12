@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsInfinite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="technology_label">Technology</string>
+    <string name="error_label">Could not load news.</string>
+    <string name="retry_label">Retry</string>
+</resources>
