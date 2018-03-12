@@ -7,10 +7,9 @@ NewsInfinite brings you the best news reading experience and keeps you informed 
 
 # Screen Shots
 <p align="center">
-  <img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/1.jpg' />
-  <img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/2.jpg' />
-  <img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/3.jpg' />
-  <img width='300' hspace='20' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/4.jpg' />
+  <img width='280' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/2.jpg' />
+  <img width='280' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/3.jpg' />
+  <img width='280' src='https://github.com/vicky7230/NewsInfinite/blob/master/graphics/4.jpg' />
 </p>
 
 # Features
