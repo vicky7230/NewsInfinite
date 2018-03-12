@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/vicky7230/NewsInfinite/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "Logo")
 
-NewsInfinite brings you the best news reading experience and keeps you informed on happenings from around the World. Download the NewsInfinite app on your smart phone and read news - anywhere, anytime!
+### NewsInfinite brings you the best news reading experience and keeps you informed on happenings from around the World. Download the NewsInfinite app on your smart phone and read news - anywhere, anytime!
 
 # Screen Shots
 <p align="center">
